@@ -1,11 +1,8 @@
-# Sample Snack app
+Aplicativo Mobile com React-Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Esse aplicativo foi desenvolvido durante o curso Mobile com react-native ministrado pela Cellep em parceria com a Estação Hack do Facebook.
+link do projeto no Expo: https://snack.expo.dev/@biancafranco1/appestacaohack
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![WhatsApp Image 2022-03-30 at 16 27 24 (1)](https://user-images.githubusercontent.com/95880578/160915966-b6b64ab0-79cc-423f-be4a-e5b5e662f473.jpeg)
+![WhatsApp Image 2022-03-30 at 16 27 25](https://user-images.githubusercontent.com/95880578/160916022-9a536cd9-70e8-450d-8ea6-5f71be9fa2a7.jpeg)
+![WhatsApp Image 2022-03-30 at 16 27 24 (3)](https://user-images.githubusercontent.com/95880578/160916045-c0c588a4-0525-4f3b-b4c1-843ffd80570f.jpeg)
